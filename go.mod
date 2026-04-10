@@ -1,2 +1,3 @@
-go mod init contact_list
-go mod tidy
+module contact_list
+
+go 1.22
