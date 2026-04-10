@@ -1,3 +1,3 @@
-module contact_list
+module contactlist
 
 go 1.22
