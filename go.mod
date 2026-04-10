@@ -1,4 +1,6 @@
 module contactlist
+go mod init contact_list
+go mod tidy
 
 go 1.21
 
